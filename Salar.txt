@@ -1,0 +1,10 @@
+1.  *.class *.log *.jar  
+
+2. En applikationsserver är utformad för att installera, driva och hosta applikationer och tillhörande tjänster för slutanvändare, IT-tjänster och organisationer och underlättar värd och leverans av avancerade konsument- eller affärsapplikationer.  
+
+3. 
+Möjligheter för externa plugins för att underlätta utvecklingen.
+Utseende spelar lite roll.
+Inbyggda funktioner, Terminalen som finns i intellij och inbyggt git funktion.
+
+Speciellt code-completion. 
