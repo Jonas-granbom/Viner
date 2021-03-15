@@ -1,0 +1,26 @@
+Vilka filer bör finnas i .gitignore? (Ange 2-4 st)?:
+
+Filer som vi inte vill att ska hanteras av git alls. t.ex för java kan vi ignorera:
+.class-filer
+.log-filer
+.jar-filer
+
+Dessa är onödiga och kommer skapas av våran IDE lokalt.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Vad är en applikationsserver och varför behövs den?:
+
+En applikationsserver är utformad för att installera, driva och hosta applikationer 
+och tillhörande tjänster för slutanvändare, IT-tjänster och
+organisationer och underlättar värd och leverans av avancerade konsument- 
+eller affärsapplikationer.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett
+utvecklingsprojekt.:
+
+I första hand hade jag valt den IDE som jag har mest erfarenhet utav och känner mig mest bekväm med. 
+Det IDE jag väljer behöver även ha stöd för de plugins som behövs till projektet samt fungera ihop med mina
+projektpartners IDEn.
