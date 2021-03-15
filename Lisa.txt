@@ -1,0 +1,20 @@
+vad är en applikationsserver?
+
+En applikationsserver är utformad för att installera, 
+driva och hosta applikationer och tillhörande tjänster för slutanvändare,
+ IT-tjänster och
+organisationer och underlättar värd och leverans av avancerade konsument- eller affärsapplikationer.
+
+
+
+Vilka filer bör finnas i .gitignore? (Ange 2-4 st)?
+.LOG.
+.CLASS.
+.LOCAL.
+.REMOTE.
+
+
+
+Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett
+utvecklingsprojekt??
+
