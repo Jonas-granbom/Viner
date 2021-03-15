@@ -1,0 +1,26 @@
+
+Vilka filer bör finnas i .gitignore? (Ange 2-4 st)?
+
+för java:
+
+.class
+.log
+.jar
+.war
+
+
+
+Vad är en applikationsserver och varför behövs den?
+
+
+En applikationsserver är utformad för att installera, driva och hosta applikationer och tillhörande tjänster för slutanvändare, IT-tjänster och 
+organisationer och underlättar hosting och leverans av avancerade konsument- eller affärsapplikationer.
+
+
+
+
+Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett
+utvecklingsprojekt.
+
+Jag hade valt den IDEn som jag kan hantera bäst, samt har bra support för externa plugins och bra funktioner.
+Jag hade också kollat på vad de jag kollaborerar med använder för IDE för att sammanstråla.
